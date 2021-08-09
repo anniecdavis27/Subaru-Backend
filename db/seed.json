@@ -1,0 +1,122 @@
+[
+    {
+        "model": "Forester",
+        "year": "2016",
+        "color": "Green",
+        "price": "$23,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Outback",
+        "year": "2021",
+        "color": "Blue",
+        "price": "$53,000",
+        "preowned": false,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Forester",
+        "year": "2018",
+        "color": "Silver",
+        "price": "$28,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Crosstrek",
+        "year": "2019",
+        "color": "Black",
+        "price": "$33,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Impreza",
+        "year": "2016",
+        "color": "Black",
+        "price": "$19,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Crosstrek",
+        "year": "2020",
+        "color": "Green",
+        "price": "$40,000",
+        "preowned": false,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Forester",
+        "year": "2021",
+        "color": "Silver",
+        "price": "$35,000",
+        "preowned": false,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Forester",
+        "year": "2015",
+        "color": "Gray",
+        "price": "$18,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Outback",
+        "year": "2018",
+        "color": "Crimson",
+        "price": "$25,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Outback",
+        "year": "2016",
+        "color": "Bronze",
+        "price": "$,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Impreza",
+        "year": "2012",
+        "color": "Green",
+        "price": "$15,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Forester",
+        "year": "2014",
+        "color": "White",
+        "price": "$21,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Crosstrek",
+        "year": "2021",
+        "color": "Blue",
+        "price": "$35,000",
+        "preowned": false,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Forester",
+        "year": "2020",
+        "color": "Gold",
+        "price": "$36,000",
+        "preowned": false,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    },
+    {
+        "model": "Crosstrek",
+        "year": "2018",
+        "color": "Silver",
+        "price": "$23,000",
+        "preowned": true,
+        "imageurl": "https://live.staticflickr.com/65535/51365582188_9eedebbf9d_h.jpg"
+    }
+]
