@@ -8,7 +8,7 @@ if (process.env.NODE_ENV === "production") {
 }
 
 mongoose
-  .connect(MONGODB_URI, {
+  .connect(DB_URI, {
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useFindAndModify: false,
