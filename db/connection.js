@@ -1,10 +1,10 @@
 const mongoose = require("mongoose");
-let MONGODB_URI = "";
+let DB_URI = "";
 
 if (process.env.NODE_ENV === "production") {
-  MONGODB_URI = process.env.DB_URL;
+  DB_URI = process.env.MONGODB_URI;
 } else {
-  MONGODB_URI = "mongodb://localhost/subaru_cars";
+  DB_URI = "mongodb://localhost/subaru_cars";
 }
 
 mongoose
